@@ -1,6 +1,6 @@
 # Coffee App Design
 
-![desktopui](https://github.com/TendaiPhikiso/CoffeeAppDesign/blob/main/iPhone%2013%20Pro.png)
+![desktopui](https://github.com/TendaiPhikiso/CoffeeAppDesign/blob/main/MockUp.png)
 
 ## Summary
 
